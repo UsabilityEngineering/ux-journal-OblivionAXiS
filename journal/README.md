@@ -3,10 +3,10 @@
 [Musescore](https://musescore.org/en/node/355624) is a free desktop application for composing and arranging sheet music. One key feature that needs to be present in sheet music is the ability to have multiple notes overlapping one the same staff. There are two main ways to do this. One such way is a "double stop", which is the term for playing two (or potentially more) notes at once on an orchestral string instrument. This is very easy to do in Musescore, done by simply clicking with the note addition tool in the same horizontal but different vertical range as another, already present note. However, this is not quite what I'm looking for, as it means that the rhythm for the notes will be the same. So instead, Musescore provides voices.
 
 The term "voices" likely comes from choral music, in which the choir is divided into different ranges that are singing different notes in a chord. However, these voices will often have slight variations in rhythm. Voices are an option that are, by default, in the main toolbar. As shown in Musescore 4:
-![](./images/Screenshot-1.png)
+![](./images/Screenshot-2.png)
 
 Voices are essentially entirely seperate parts that just share the same instrument and staff. This does mean that they can get a bit cluttered, but it's the arranger's job to make sure that isn't the case. This is an example of voices being used:
-![](./images/Screenshot-2.png)
+![](./images/Screenshot-1.png)
 
 In the 4th and 8th shown measures, there are two voices in the upper staff of the piano. While voice 1 is holding a chord, voice 2 is playing a sequence of eighth notes (a duration of note in which there are 8 notes in a measure). A more subtle use is in the 1st shown measure, where a eighth note that leads in to the next measure stands alone rhythmically, meaning that the best way to represent it is to have the top note of each quadruple stop be moved into a seperate voice, along with the eighth note. A perhaps less obvious example in the same image is the drum part. The hi-hats and cymbals (which have an 'x' notehead) are one voice, while the kick, snare, and toms (which have a round notehead) are in a seperate voice.
 
