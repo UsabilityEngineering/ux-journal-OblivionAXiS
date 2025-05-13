@@ -5,7 +5,7 @@ I'm Adrian Spinali, a senior at Chico State and majoring in Computer Science. My
 
 ## UX Team Project
 
-Coming soon.
+[DJ Song Match](https://github.com/ChicoState/djsongmatch-ux/tree/main)
 
 ## UX Journal
 
